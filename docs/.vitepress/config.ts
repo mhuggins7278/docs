@@ -28,6 +28,7 @@ const sidebar: DefaultTheme.Sidebar = [
       { text: "Path mapping", link: "/path-mapping" },
       { text: "Templates", link: "/templates" },
       { text: "Routes", link: "/routes" },
+      { test: "Custom Validation", link: "/custom-validation"},
     ],
   },
 ];
